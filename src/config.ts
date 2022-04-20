@@ -924,8 +924,8 @@ export const formatters = {
     "args": ["--stdin"]
   },
 
-  "nixfmt": {
-    "command": "nixfmt"
+  "nixpkgs-fmt": {
+    "command": "nixpkgs-fmt"
   },
 
   "fish_indent": {
